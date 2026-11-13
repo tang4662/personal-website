@@ -69,7 +69,7 @@
   function initWelcomeMessage() {
     chatbotMessages.innerHTML = '';
     appendMessage(
-      '你好！我是林子軒 Alex 的網站 AI 小客服 🤖\n你可以問我關於他的經歷、作品集或合作方式。',
+      '你好！我是總裁 CEO 菁菁 Tang 的網站 AI 小客服 🤖\n你可以問我關於她的背景、代表專案或合作方式。',
       'bot'
     );
     if (!getSavedGasUrl()) {
